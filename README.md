@@ -1,2 +1,1 @@
-# Music-Player
-Web based music player 
+<h1 align="center">MUSIC PLAYER</h1> 
